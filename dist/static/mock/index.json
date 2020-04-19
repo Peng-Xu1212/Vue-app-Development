@@ -1,0 +1,104 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/3e/a588a413145dbe.jpg_r_640x214_b3729b6e.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1602/bf/a2ac57b8bfe7cd.jpg_r_640x214_406d4c7e.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1812/e1/28d418ecf6e535.jpg_r_640x214_77e18cdc.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://s.qunarzz.com/homenode/images/touchheader/piao.png",
+        "desc": "Ticket"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
+        "desc": "Winter"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://s.qunarzz.com/homenode/images/touchheader/package.png",
+        "desc": "Hiking"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+        "desc": "Botanic Garden"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
+        "desc": "Playground"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://s.qunarzz.com/homenode/images/touchheader/flight.png",
+        "desc": "Flight"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://s.qunarzz.com/homenode/images/touchheader/train.png",
+        "desc": "Tran"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
+        "desc": "City tour"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
+        "desc": "One day tour"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1608/fd/fda55d55eef4f92aa3.water.jpg_110x110_e34fafed.jpg",
+        "title": "Flinders Chase National Park",
+        "desc": ""
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1907/f0/f0066d216401f7dca3.water.jpg_110x110_e779f4cc.jpg",
+        "title": "Wildlife Zoo",
+        "desc": ""
+      }, {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p35/201211/00/ddb54529513b35e693835fbb.jpg_110x110_1e1745ac.jpg",
+        "title": "Adelaide Casino",
+        "desc": ""
+      }, {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1607/11/1144d4f5ad16c3c0c0.water.jpg_110x110_5bd8ab99.jpg",
+        "title": "The river",
+        "desc": ""
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/travel/poi/1409/04/ebb4cbf458c10b25ffffffffc8d65eac.jpg_110x110_4d39ee81.jpg",
+        "title": "End of the World",
+        "desc": ""
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/vc/b8/67/be/4b9d7b717a8570894b94522f74.jpg_92.jpg",
+        "title": "Sydney Wildlife Zoo",
+        "desc": "Enojy Your weekend with your family"
+      }, {
+        "id": "0002",
+        "imgUrl": "//img1.qunarzz.com/sight/p0/1409/04/e54a7334c52e0206cc8ba21297f2542a.jpg_600x330_b212192f.jpg",
+        "title": "Australia TOP10 Places",
+        "desc": "Wonderful destination"
+      }, {
+        "id": "0003",
+        "imgUrl": "//img1.qunarzz.com/sight/p0/1508/2c/1e9cea175b9c70eff714adc9ccbf9fce.water.jpg_600x330_bed953bd.jpg",
+        "title": "Gold Coast Exploration",
+        "desc": "Sufficient Advanture"
+      }, {
+        "id": "0004",
+        "imgUrl": "//img1.qunarzz.com/sight/p0/1701/b5/b58de438407fb00ba3.water.jpg_600x330_64c20574.jpg",
+        "title": "Hot balloon trip explore our sky",
+        "desc": "Come with me quickly"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1603/6d/2f67ae0659f41f.jpg_r_640x214_bf6cbd0b.jpg",
+        "title": "Walk on Botanic Garden",
+        "desc": "experiencing in our amazing nature"
+      }]
+  }
+}

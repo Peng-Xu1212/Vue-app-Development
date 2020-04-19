@@ -1,0 +1,39 @@
+{
+  "ret": true,
+  "data": {
+    "place": [{
+        "id": "0001",
+        "name": "Nation Park"
+     },{
+        "id": "0002",
+        "name": "Glenelg"
+     },{
+        "id": "0003",
+        "name": "Adelaide Zoo"
+     },{
+        "id": "0004",
+        "name": "Botanic Garden"
+     },{
+        "id": "0005",
+        "name": "Adelaide Casino"
+     },{
+        "id": "0006",
+        "name": "River"
+     },{
+        "id": "0007",
+        "name": "Library"
+     },{
+        "id": "0008",
+        "name": "Town Hall"
+     },{
+        "id": "0009",
+        "name": "Chinatown"
+     },{
+        "id": "0010",
+        "name": "Light Square"
+     },{
+        "id": "0011",
+        "name": "University of Adelaide"
+     },]
+  }
+}

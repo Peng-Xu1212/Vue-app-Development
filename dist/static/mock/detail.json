@@ -1,0 +1,39 @@
+{
+  "ret": true,
+  "data": {
+    "name": "Flinders Chase National Park",
+    "img": "http://img1.qunarzz.com/sight/p0/1608/fd/fda55d55eef4f92aa3.water.jpg_600x330_49f8e61d.jpg",
+    "imgs": [{
+          "id": "0001",
+          "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPOHXv500wSUpHE_Vnqygu0xIcyhz8pcwcTE3Xy=w928-h520-n-k-no"
+      }, {
+            "id": "0002",
+            "imgUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRyn5CaHcNm1d0NnEShsS0p53oZXJ1NCWCBhFnIUsC9rZ3VUBpoKcm9m5DGqHOx4rN8NOKiv46fg6S7Uw"
+        }],
+    "list": [{
+          "title": "Adult Ticket",
+          "secondary": [{
+                "title": "Half-Day Whitewater Rafting on the Barron River",
+                "price": "128",
+                "status": "Book now",
+                "dollor": "$"
+            }, {
+                "title": "Sydney Aquarium entrance City Pass Adult Ticket",
+                "price": "228",
+                  "status": "Book now",
+                  "dollor": "$"
+            }, {
+                "title": "Sydney City Harbor Bridge one day pass Ticket",
+                "price": "99",
+                "status": "Book now",
+                "dollor": "$"
+            }]
+          }, {
+              "title": "Senior Ticket"
+          }, {
+              "title": "Concession Ticket"
+          }, {
+              "title": "Student Ticket"
+          }]
+    }
+}

@@ -1,0 +1,126 @@
+{
+  "ret": true,
+  "data": {
+    "city": [{
+        "id": "0001",
+        "name": "Adelaide"
+      },{
+        "id": "0002",
+        "name": "Sydney"
+      },{
+        "id": "0003",
+        "name": "Melbounre"
+      },{
+        "id": "0004",
+        "name": "Alice Springs"
+      },{
+        "id": "0005",
+        "name": "Brisbane"
+      },{
+        "id": "0006",
+        "name": "Perth"
+      }],
+      "acity": {
+        "A": [{
+          "id": "0001",
+          "name": "Adelaide"
+        },{
+          "id": "0002",
+          "name": "Albury"
+        },{
+          "id": "0003",
+          "name": "Albany"
+        },{
+          "id": "0004",
+          "name": "Alice Springs"
+        }],
+        "B": [{
+            "id": "0006",
+            "name": "Ballarat"
+        },{
+            "id": "0007",
+            "name": "Bendigo"
+        },{
+            "id": "0009",
+            "name": "Bunbury"
+        }],
+        "C": [{
+            "id": "0010",
+            "name": "Coffs Harbour"
+        },{
+            "id": "0011",
+            "name": "Cairns"
+        },{
+            "id": "0012",
+            "name": "Canberra"
+        }],
+        "D": [{
+            "id": "0013",
+            "name": "Dubbo"
+        },{
+            "id": "0014",
+            "name": "Devonport"
+        },{
+            "id": "0015",
+            "name": "Darwin"
+        },{
+            "id": "0013",
+            "name": "Dubbo"
+        },{
+            "id": "0014",
+            "name": "Devonport"
+        },{
+            "id": "0015",
+            "name": "Darwin"
+        },{
+            "id": "0013",
+            "name": "Dubbo"
+        },{
+            "id": "0014",
+            "name": "Devonport"
+        },{
+            "id": "0015",
+            "name": "Darwin"
+        },{
+            "id": "0013",
+            "name": "Dubbo"
+        },{
+            "id": "0014",
+            "name": "Devonport"
+        },{
+            "id": "0015",
+            "name": "Darwin"
+        },{
+            "id": "0013",
+            "name": "Dubbo"
+        },{
+            "id": "0014",
+            "name": "Devonport"
+        },{
+            "id": "0015",
+            "name": "Darwin"
+        },{
+            "id": "0013",
+            "name": "Dubbo"
+        },{
+            "id": "0014",
+            "name": "Devonport"
+        },{
+            "id": "0015",
+            "name": "Darwin"
+        }],
+        "M": [{
+            "id": "0017",
+            "name": "Melbourne"
+          }],
+        "P": [{
+            "id": "0018",
+            "name": "Perth"
+          }],
+        "S": [{
+            "id": "0019",
+            "name": "Sydney"
+          }]
+      }
+  }
+}
